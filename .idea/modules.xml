@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spritesheet4j.iml" filepath="$PROJECT_DIR$/.idea/modules/spritesheet4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svx/svx.iml" filepath="$PROJECT_DIR$/.idea/modules/svx/svx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sxp/sxp.iml" filepath="$PROJECT_DIR$/.idea/modules/sxp/sxp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/universal-lpc/universal-lpc.iml" filepath="$PROJECT_DIR$/.idea/modules/universal-lpc/universal-lpc.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name = 'spritesheet4j'
+include ':svx', ':sxp'
+include 'universal-lpc'
+
